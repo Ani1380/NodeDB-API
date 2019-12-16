@@ -1,4 +1,4 @@
-const db2con=require('./db2test');
+const db2con=require('./dbcon');
 const express=require("express");
 const Promise=require("bluebird");
 const fs=require("fs");
