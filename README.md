@@ -1,6 +1,8 @@
 # NodeDB
 
+##### Developed By
 
+[![ISUBHRA.CO.IN](https://i.imgur.com/7boEUeJ.png)](https://isubhra.co.in)
 
 ### initServer.js
 Contains the initialization code and the routes
