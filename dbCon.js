@@ -27,7 +27,7 @@ connection.query(queryst, function (err, data) {
      }
 });
 connection.end(function () {       
-    console.log('connection Closed');
+    console.log('Connection Closed');
 });
 }
 module.exports.result = result;
