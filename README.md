@@ -1,4 +1,4 @@
-# NodeDB
+# NodeDB API
 
 ##### Developed By
 
